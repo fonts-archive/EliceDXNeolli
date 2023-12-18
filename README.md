@@ -32,22 +32,34 @@ font-family: "Elice DX Neolli", sans-serif;
 
 ```
 @font-face {
-    font-family: 'D2Coding';
-    font-weight: 400;
+    font-family: 'Elice DX Neolli';
+    font-weight: 300;
     font-style: normal;
     font-display: swap;
-    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/D2Coding/D2Coding-Regular.woff2') format('woff2'),
-         url('https://cdn.jsdelivr.net/gh/fonts-archive/D2Coding/D2Coding-Regular.woff') format('woff'),
-         url('https://cdn.jsdelivr.net/gh/fonts-archive/D2Coding/D2Coding-Regular.ttf') format('truetype');
+    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/EliceDXNeolli/EliceDXNeolli-Light.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/EliceDXNeolli/EliceDXNeolli-Light.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/EliceDXNeolli/EliceDXNeolli-Light.otf') format('opentype'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/EliceDXNeolli/EliceDXNeolli-Light.ttf') format('truetype');
 }
 @font-face {
-    font-family: 'D2Coding';
+    font-family: 'Elice DX Neolli';
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/EliceDXNeolli/EliceDXNeolli-Medium.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/EliceDXNeolli/EliceDXNeolli-Medium.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/EliceDXNeolli/EliceDXNeolli-Medium.otf') format('opentype'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/EliceDXNeolli/EliceDXNeolli-Medium.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Elice DX Neolli';
     font-weight: 700;
     font-style: normal;
     font-display: swap;
-    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/D2Coding/D2Coding-Bold.woff2') format('woff2'),
-         url('https://cdn.jsdelivr.net/gh/fonts-archive/D2Coding/D2Coding-Bold.woff') format('woff'),
-         url('https://cdn.jsdelivr.net/gh/fonts-archive/D2Coding/D2Coding-Bold.ttf') format('truetype');
+    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/EliceDXNeolli/EliceDXNeolli-Bold.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/EliceDXNeolli/EliceDXNeolli-Bold.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/EliceDXNeolli/EliceDXNeolli-Bold.otf') format('opentype'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/EliceDXNeolli/EliceDXNeolli-Bold.ttf') format('truetype');
 }
 ```
 
