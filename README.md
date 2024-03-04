@@ -1,6 +1,6 @@
 # Elice DX Neolli
 
-[Visit Source](https://github.com/naver/d2codingfont)
+[Visit Source](https://elice.io/ko/elice/brand#elice_dx_neolli)
 
 &nbsp;
 
